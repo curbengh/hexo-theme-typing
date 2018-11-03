@@ -1,5 +1,9 @@
 # Typing
 
+[![NPM Dependencies](https://david-dm.org/weyusi/hexo-theme-typing.svg)](https://david-dm.org/weyusi/hexo-theme-typing)
+[![NPM Dependencies](https://david-dm.org/weyusi/hexo-theme-typing/dev-status.svg)](https://david-dm.org/weyusi/hexo-theme-typing?type=dev)
+
+
 > A pure and fresh Hexo theme.
 
 * Minimal And Clean Design
