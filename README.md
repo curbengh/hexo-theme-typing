@@ -1,5 +1,6 @@
 # Typing
 
+[![Build Status](https://travis-ci.com/weyusi/hexo-theme-typing.svg?branch=develop)](https://travis-ci.com/weyusi/hexo-theme-typing)
 [![NPM Dependencies](https://david-dm.org/weyusi/hexo-theme-typing.svg)](https://david-dm.org/weyusi/hexo-theme-typing)
 [![NPM Dependencies](https://david-dm.org/weyusi/hexo-theme-typing/dev-status.svg)](https://david-dm.org/weyusi/hexo-theme-typing?type=dev)
 

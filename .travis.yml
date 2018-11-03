@@ -1,0 +1,16 @@
+language: node_js
+node_js: "node" # latest stable Node.js release
+
+cache: npm # cache 'node_modules' for faster build
+
+script:
+  - npm install -g snyk
+  - npm install # install node modules
+  - snyk auth $SNYK_TOKEN
+  - snyk test # Check node modules for vulnerability
+  - snyk monitor
+
+branches:
+  only:
+  - develop # Only build develop branch
+  - /^greenkeeper.*$/ # Greenkeeper branches
