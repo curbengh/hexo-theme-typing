@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/weyusi/hexo-theme-typing.svg?branch=develop)](https://travis-ci.com/weyusi/hexo-theme-typing)
 [![NPM Dependencies](https://david-dm.org/weyusi/hexo-theme-typing.svg)](https://david-dm.org/weyusi/hexo-theme-typing)
-[![NPM Dependencies](https://david-dm.org/weyusi/hexo-theme-typing/dev-status.svg)](https://david-dm.org/weyusi/hexo-theme-typing?type=dev)
+[![NPM Dependencies](https://david-dm.org/weyusi/hexo-theme-typing/dev-status.svg)](https://david-dm.org/weyusi/hexo-theme-typing?type=dev) [![Greenkeeper badge](https://badges.greenkeeper.io/weyusi/hexo-theme-typing.svg)](https://greenkeeper.io/)
 
 
 > A pure and fresh Hexo theme.
